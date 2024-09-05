@@ -1,0 +1,8 @@
+# Object Files
+*.o
+
+# Debug Directory
+/seashell.dSYM
+
+# Shell Executable
+seashell
