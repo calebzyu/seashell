@@ -19,7 +19,7 @@ programming concepts from my computer systems course.
 - **Prompt Customization**: Displays the current working directory.
 
 ## Usage
-To test out the Seashell, follow the instructions below.
+To test out the shell, follow the instructions below.
 
 ### Compilation
 Ensure you have GCC installed, then use the provided `Makefile`:
